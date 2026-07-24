@@ -8,7 +8,7 @@ A self hosted home lab simulating IT infrastrucutre  like windows server active 
 - 📝 Document the build process step by step
 
 ## 🛠️ Tools
-- 📦 VirtualBox
+- 📦 VMware Workstation
 - 🪟 Windows Server (evaluation edition)
 - 💻 Windows 10/11 client VM
 
