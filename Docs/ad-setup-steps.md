@@ -14,6 +14,8 @@
 - Downloaded Windows Server 2022 ISO from the official Microsoft Evaluation Center: https://www.microsoft.com/en-us/evalcenter/download-windows-server-2022
 - Version: Windows Server 21H2 (OS Build 20348.587)
 - Evaluation edition, valid for 180 days — sufficient for lab/testing purposes
+- ![Windows Server download page](windows-server-download-page.png)
+![Windows Server ISO downloaded](windows-server-iso-downloaded.png)
 - ## 3. Creating a New VM
 
 - Opened VMware Workstation Player and selected "Create a New Virtual Machine"
