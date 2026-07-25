@@ -5,6 +5,9 @@
 - Downloaded **VMware Workstation Player** (free version) from the official VMware site
 - Ran the installer using all default settings — no custom configuration needed
 - Launched VMware Workstation Player to confirm it installed correctly before moving on to creating a VM
+- Screenshot 2026-07-24 174359.png
+-   Screenshot 2026-07-24 174408.png
+-  Screenshot 2026-07-24 174438.png
 ## 2. Windows Server ISO Download
 
 - Downloaded Windows Server 2022 ISO from the official Microsoft Evaluation Center: https://www.microsoft.com/en-us/evalcenter/download-windows-server-2022
