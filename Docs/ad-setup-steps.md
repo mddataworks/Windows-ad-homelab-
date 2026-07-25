@@ -15,7 +15,8 @@
 - Version: Windows Server 21H2 (OS Build 20348.587)
 - Evaluation edition, valid for 180 days — sufficient for lab/testing purposes
 - ![Windows Server download page](windows-server-download-page.png)
-![Windows Server ISO downloaded](windows-server-iso-downloaded.png)
+- ![Windows Server ISO downloaded](windows-server-iso-downloaded.png)
+
 - ## 3. Creating a New VM
 
 - Opened VMware Workstation Player and selected "Create a New Virtual Machine"
