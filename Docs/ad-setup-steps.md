@@ -60,7 +60,24 @@
 - Learned the difference between **group scope** (Domain Local, Global, Universal) and **group type** (Security vs Distribution)
 - Created department-based **security groups** to manage access: **IT, Accounting, HR, Sales, Management**
 - Practiced creating a distribution group concept for email lists (e.g. DL-IT Admins)
-
 ### Creating Users
 - Created user accounts under the appropriate OUs
 - Set login names and passwords for each user
+
+- ## 7. Configuring Group Policy Objects (GPOs)
+
+### Reviewing Default Policies
+- Opened Group Policy Management Console (GPMC) and reviewed the domain forest structure
+- Reviewed the built-in Default Domain Controllers Policy
+
+### Configuring Password Policy
+- Edited the domain's Password Policy GPO
+- Set Minimum password length to 14 characters
+- Enabled password complexity requirements
+- Set Maximum password age to 90 days
+
+### Creating a Custom GPO (Drive Mapping)
+- Created a new GPO named "Drive Mapping" linked to the domain
+- Navigated to User Configuration > Preferences > Windows Settings > Drive Maps
+- Configured a mapped network drive (E:) pointing to a shared folder path
+
