@@ -79,7 +79,7 @@
 - Set Maximum password age to 90 days
 - ![New GPO dialog](new-gpo-dialog.png)
 ![GPO scope and security filtering](gpo-scope-security-filtering.png)
-![Password Policy context menu](password-policy-context-menu.png)
+![Password Policy context menu](password-policy-context-menu.png) 
 ![Password Policy editor just opened](password-policy-editor-opened.png)
 ![Password Policy editor expanded](password-policy-editor-expanded.png)
 ![Password policy settings list](password-policy-settings-list.png)
