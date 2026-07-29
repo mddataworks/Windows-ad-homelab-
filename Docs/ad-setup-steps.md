@@ -69,15 +69,33 @@
 ### Reviewing Default Policies
 - Opened Group Policy Management Console (GPMC) and reviewed the domain forest structure
 - Reviewed the built-in Default Domain Controllers Policy
+- ![GPMC console overview](gpmc-console-overview.png)
+![Default Domain Controllers Policy](default-domain-controllers-policy.png)
 
 ### Configuring Password Policy
 - Edited the domain's Password Policy GPO
 - Set Minimum password length to 14 characters
 - Enabled password complexity requirements
 - Set Maximum password age to 90 days
+- ![New GPO dialog](new-gpo-dialog.png)
+![GPO scope and security filtering](gpo-scope-security-filtering.png)
+![Password Policy context menu](password-policy-context-menu.png)
+![Password Policy editor just opened](password-policy-editor-opened.png)
+![Password Policy editor expanded](password-policy-editor-expanded.png)
+![Password policy settings list](password-policy-settings-list.png)
+![Minimum password length set to 14](min-password-length-14.png)
+![Password complexity enabled](password-complexity-enabled.png)
+![Maximum password age set to 90 days](max-password-age-90days.png)
+
 
 ### Creating a Custom GPO (Drive Mapping)
 - Created a new GPO named "Drive Mapping" linked to the domain
 - Navigated to User Configuration > Preferences > Windows Settings > Drive Maps
 - Configured a mapped network drive (E:) pointing to a shared folder path
+- ![Create GPO menu](create-gpo-menu.png)
+![New GPO named Drive Mapping](new-gpo-drive-mapping.png)
+![Drive Mapping GPO editor](drive-mapping-gpo-editor.png)
+![Navigating to Drive Maps](drive-maps-navigation.png)
+![Drive Maps empty view](drive-maps-empty.png)
+![Configured drive map for E: drive](drive-map-configured.png)
 
