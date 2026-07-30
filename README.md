@@ -28,5 +28,5 @@ A self hosted home lab simulating IT infrastructure like Windows Server Active D
 - 7/30/2026 - 🎫 Set up Spiceworks Cloud Help Desk and practiced ticket creation, response, and closure
 
 ## 📄 Detailed Documentation
-- See [docs/ad-setup-steps.md](docs/ad-setup-steps.md) for full step-by-step AD/GPO setup with screenshots
-- See [docs/ticket-system.md](docs/ticket-system.md) for the help desk ticketing simulation
+- See [Docs/ad-setup-steps.md](Docs/ad-setup-steps.md) for full step-by-step AD/GPO setup with screenshots
+- See [Docs/ticket-system.md](Docs/ticket-system.md) for the help desk ticketing simulation
