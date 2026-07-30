@@ -11,6 +11,7 @@ This section simulates real-world IT help desk tickets using Spiceworks Cloud He
 - Opened the Cloud Help Desk dashboard to begin creating and managing tickets
 
 ![Spiceworks IT Tools menu](spiceworks-menu.png)
+
 ![Cloud Help Desk landing page](spiceworks-helpdesk-landing.png)
 ![Initial ticket queue](spiceworks-ticket-queue-initial.png)
 
